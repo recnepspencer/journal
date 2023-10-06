@@ -1,0 +1,14 @@
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/obj/Debug/net7.0/JournalApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/obj/Debug/net7.0/JournalApp.AssemblyInfoInputs.cache
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/obj/Debug/net7.0/JournalApp.AssemblyInfo.cs
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/obj/Debug/net7.0/JournalApp.csproj.CoreCompileInputs.cache
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/bin/Debug/net7.0/JournalApp
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/bin/Debug/net7.0/JournalApp.deps.json
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/bin/Debug/net7.0/JournalApp.runtimeconfig.json
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/bin/Debug/net7.0/JournalApp.dll
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/bin/Debug/net7.0/JournalApp.pdb
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/obj/Debug/net7.0/JournalApp.dll
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/obj/Debug/net7.0/refint/JournalApp.dll
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/obj/Debug/net7.0/JournalApp.pdb
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/obj/Debug/net7.0/JournalApp.genruntimeconfig.cache
+/Users/spenstar/Documents/School/programming-with-classes/team-journal-project/JournalApp/obj/Debug/net7.0/ref/JournalApp.dll
