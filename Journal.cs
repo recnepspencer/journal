@@ -24,7 +24,7 @@ public class Journal
         // Get the user's response
 
         Console.WriteLine("Your Response:");
-        string response = Console.ReadLine();
+        string? response = Console.ReadLine();
 
         if (string.IsNullOrEmpty(response))
         {
@@ -98,7 +98,7 @@ public class Journal
         // Read the file line by line
         using (StreamReader sr = new StreamReader(FileName))
         {
-            string line;
+            string? line;
             bool isFirstLine = true;
 
             // Read the first line and ignore it
